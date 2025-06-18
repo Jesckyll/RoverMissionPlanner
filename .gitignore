@@ -5,3 +5,14 @@
 /.vs
 /API/bin/Debug/net8.0
 /API/obj
+/Application
+/Application/bin/Debug/net8.0
+/Application/obj
+/Domain
+/Domain/bin/Debug/net8.0
+/Domain/Class1.cs
+/Domain/obj
+/Infrastructure
+/Infrastructure/bin/Debug/net8.0
+/Infrastructure/Class1.cs
+/Infrastructure/obj
